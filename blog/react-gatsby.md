@@ -5,4 +5,10 @@ title: React & Gatsby
 ---
 Lorem ipsum bla bla bla
 
+```ags
+<div>
+  <h1>Hello world!</h1>
+</div>
+```
+
 ![roma](/assets/roma.png "Roma")
