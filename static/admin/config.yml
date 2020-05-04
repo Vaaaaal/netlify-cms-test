@@ -1,5 +1,6 @@
 backend:
-  name: test-repo
+  name: github
+  repo: Vaaaaal/netlify-cms-test
 
 media_folder: static/assets
 public_folder: /assets
