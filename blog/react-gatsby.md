@@ -6,4 +6,8 @@ title: React & Gatsby
 
 Lorem ipsum bla bla bla
 
-![roma](/assets/roma.png "Roma")
+```
+<div>
+  <h1>Hello Blog post !</h1>
+</div>
+```
